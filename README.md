@@ -1,4 +1,4 @@
-# @d2l/s-html
+# @brightspace-ui/s-html
 
 Element wrapper of `.innerHTML` for data binding with HTML elements.
 
@@ -61,7 +61,7 @@ HTML
 
 ## Installation
 
-`npm i s-html`
+`npm i @brightspace-ui/s-html`
 
 ## License
 
@@ -88,4 +88,4 @@ When a release is triggered, it will:
 * Update the version in `package.json`
 * Tag the commit
 * Create a GitHub release (including release notes)
-* Deploy a new package to CodeArtifact
+* Deploy a new package to NPM

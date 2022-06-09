@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Brightspace/s-html.git"
   },
   "homepage": "https://github.com/Brightspace/s-html#readme",
-  "name": "@d2l/s-html",
+  "name": "@brightspace-ui/s-html",
   "version": "2.0.2",
   "author": "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)",
   "license": "MIT",
@@ -42,6 +42,6 @@
     "s-html.js"
   ],
   "publishConfig": {
-    "registry": "https://d2l-569998014834.d.codeartifact.us-east-1.amazonaws.com/npm/private/"
+    "access": "public"
   }
 }
