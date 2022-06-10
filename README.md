@@ -1,4 +1,4 @@
-# @brightspace-ui/s-html
+# @brightspace-ui-labs/s-html
 
 Element wrapper of `.innerHTML` for data binding with HTML elements.
 
@@ -61,7 +61,7 @@ HTML
 
 ## Installation
 
-`npm i @brightspace-ui/s-html`
+`npm i @brightspace-ui-labs/s-html`
 
 ## License
 
